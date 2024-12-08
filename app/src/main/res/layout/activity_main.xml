@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <!-- Game Mode Selection -->
+    <TextView
+        android:id="@+id/gameModeText"
+        android:text="Choose game mode:"
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/playerVsPlayerButton"
+        android:text="Player vs Player"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"/>
+
+    <Button
+        android:id="@+id/playerVsComputerButton"
+        android:text="Player vs Computer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"/>
+
+    <!-- Score Display -->
+    <TextView
+        android:id="@+id/scoreText"
+        android:text="Player 1 Score: 0 | Player 2 Score: 0"
+        android:textSize="18sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"/>
+
+    <!-- Input field to choose a number -->
+    <EditText
+        android:id="@+id/numberInput"
+        android:hint="Enter a number (1-5)"
+        android:inputType="number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"/>
+
+    <!-- Submit Button -->
+    <Button
+        android:id="@+id/submitButton"
+        android:text="Submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"/>
+
+    <!-- Result Display -->
+    <TextView
+        android:id="@+id/resultText"
+        android:text=""
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"/>
+</LinearLayout>
