@@ -31,7 +31,7 @@ Follow these steps to run the project on your local machine:
 
 ## Contributors:
 
-- **Bongiwe Mkwananzi**
-- **Buchizya Mwase**
-- **Tanyaradzwa Chisepo**
-- **Uchenna Njoku**
+- **Bongiwe Mkwananzi**☺️
+- **Buchizya Mwase** 😛
+- **Tanyaradzwa Chisepo**😜
+- **Uchenna Njoku**😎
