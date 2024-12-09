@@ -3,6 +3,7 @@
 Reverse Tally is a turn-based game where two players (or one player vs. computer) take turns adding points to their score. If a score is a multiple of 6, scores are swapped. The first player to reach or exceed a score of 15 loses. It includes **Player vs. Player** and **Player vs. Computer** modes. 
 
 ## Features
+![PNG image](https://github.com/user-attachments/assets/fddc4236-ca12-4e01-ab37-45d188d2dcef)
 
 - **Player vs. Player Mode**: Two players can take turns adding points to their score.
 - **Player vs. Computer Mode**: Play against a computer AI opponent.
