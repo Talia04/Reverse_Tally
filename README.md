@@ -29,8 +29,8 @@ Follow these steps to run the project on your local machine:
    ```bash
    git clone https://github.com/Talia04/ReverseTally.git
 
-Contributors:
-Bongiwe Mkwananzi
-Buchizya Mwase
-Tanyaradzwa Chisepo
-Uchenna Njoku
+##Contributors:
+-**Bongiwe Mkwananzi**
+-**Buchizya Mwase**
+-**Tanyaradzwa Chisepo**
+-**Uchenna Njoku**
